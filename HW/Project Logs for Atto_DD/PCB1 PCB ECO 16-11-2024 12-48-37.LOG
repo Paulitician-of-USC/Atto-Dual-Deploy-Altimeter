@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=B Pin=IC1-1
+Removed Pin From Net: NetName=P2C Pin=IC1-2
+Removed Pin From Net: NetName=P2I Pin=IC1-3
+Removed Pin From Net: NetName=NRST Pin=IC1-4
+Removed Pin From Net: NetName=GND Pin=IC1-7
+Removed Pin From Net: NetName=3v3 Pin=IC1-9
+Removed Pin From Net: NetName=SDA Pin=IC1-11
+Removed Pin From Net: NetName=SCL Pin=IC1-12
+Removed Pin From Net: NetName=P1C Pin=IC1-19
+Removed Pin From Net: NetName=P1I Pin=IC1-20
+Removed Pin From Net: NetName=VBAT Pin=U1-3
+Removed Member From Class: ClassName=Schematic Member=C2
+Removed Member From Class: ClassName=Schematic Member=IC1
+Added Component: Designator=IC3(A3213ELHLTT)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A1220LLHLT-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a1220llhlt-t/allegro-microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.allegromicro.com/~/media/files/datasheets/a1220-1-2-3-datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.13mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Allegro Microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A1220LLHLT-T"; VariantName = "[No Variations]"
+Added Component: Designator=U2(FP-TSSOP20-YA-IPC_A)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=IC3-1
+Added Pin To Net: NetName=GND Pin=IC3-3
+Added Pin To Net: NetName=SCL Pin=U2-1
+Added Pin To Net: NetName=SDA Pin=U2-2
+Added Pin To Net: NetName=3v3 Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=NRST Pin=U2-6
+Added Pin To Net: NetName=P1I Pin=U2-7
+Added Pin To Net: NetName=P1C Pin=U2-8
+Added Pin To Net: NetName=B Pin=U2-9
+Added Pin To Net: NetName=P2C Pin=U2-10
+Added Pin To Net: NetName=P2I Pin=U2-11
+Added Pin To Net: NetName=EN Pin=IC3-2
+Added Pin To Net: NetName=EN Pin=U1-3
+Added Net: Name=EN
+Added Pin To Net: NetName=SWCLK Pin=U2-19
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=U2-18
+Added Net: Name=SWDIO
+Added Member To Class: ClassName=Schematic Member=Component IC3 A1220LLHLT-T
+Added Member To Class: ClassName=Schematic Member=Component U2 STM32G030F6P6TR

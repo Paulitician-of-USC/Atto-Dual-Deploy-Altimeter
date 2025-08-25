@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=P2I Pin=IC1-2
+Added Pin To Net: NetName=P2C Pin=IC1-3
+Added Pin To Net: NetName=P1C Pin=IC1-19
+Added Pin To Net: NetName=P1I Pin=IC1-20
+Added Member To Class: ClassName=Schematic Member=Component R9 RC0402JR-074K7L

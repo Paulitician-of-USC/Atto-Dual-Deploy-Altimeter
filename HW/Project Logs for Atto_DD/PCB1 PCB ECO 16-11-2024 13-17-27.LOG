@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=P2C Pin=U2-8
+Added Pin To Net: NetName=P2C Pin=U2-9
+Added Pin To Net: NetName=BUZ Pin=LS1-1
+Added Pin To Net: NetName=BUZ Pin=U2-8
+Added Net: Name=BUZ

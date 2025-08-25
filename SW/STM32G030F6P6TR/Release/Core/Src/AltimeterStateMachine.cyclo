@@ -1,0 +1,6 @@
+../Core/Src/AltimeterStateMachine.c:138:6:fire_pyro_channel.part.0	1
+../Core/Src/AltimeterStateMachine.c:95:19:flash_write_float	3
+../Core/Src/AltimeterStateMachine.c:128:7:flash_read_float	1
+../Core/Src/AltimeterStateMachine.c:138:6:fire_pyro_channel	3
+../Core/Src/AltimeterStateMachine.c:152:19:run_preflight_and_launch_detection	7
+../Core/Src/AltimeterStateMachine.c:214:5:AltimeterStateMachine	22

@@ -1,0 +1,4 @@
+../Core/Src/buzzer.c:26:6:Buzzer_Start	16	static
+../Core/Src/buzzer.c:35:6:Buzzer_Update	8	static
+../Core/Src/buzzer.c:45:6:buzz_out_value	40	static
+../Core/Src/buzzer.c:84:6:buzz_out_altitude	40	static

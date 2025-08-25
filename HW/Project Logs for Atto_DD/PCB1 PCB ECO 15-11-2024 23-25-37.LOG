@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=P2I Pin=IC1-2
+Removed Pin From Net: NetName=P2C Pin=IC1-3
+Added Pin To Net: NetName=P2C Pin=IC1-2
+Added Pin To Net: NetName=P2I Pin=IC1-3

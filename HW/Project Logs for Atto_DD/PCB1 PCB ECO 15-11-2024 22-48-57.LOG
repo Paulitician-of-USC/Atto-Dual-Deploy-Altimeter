@@ -1,0 +1,39 @@
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=LS? NewDesignator=LS1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Pin To Net: NetName=VBAT Pin=P1-3
+Added Pin To Net: NetName=VBAT Pin=P1-4
+Added Pin To Net: NetName=VBAT Pin=Q1-3
+Added Pin To Net: NetName=VBAT Pin=Q2-3
+Added Pin To Net: NetName=VBAT Pin=R3-2
+Added Pin To Net: NetName=VBAT Pin=R4-2
+Added Pin To Net: NetName=P1C Pin=R4-1
+Added Pin To Net: NetName=P1C Pin=R6-2
+Added Net: Name=P1C
+Added Pin To Net: NetName=P1I Pin=Q2-1
+Added Pin To Net: NetName=P1I Pin=R2-2
+Added Net: Name=P1I
+Added Pin To Net: NetName=P2C Pin=R3-1
+Added Pin To Net: NetName=P2C Pin=R5-2
+Added Net: Name=P2C
+Added Pin To Net: NetName=P2I Pin=Q1-1
+Added Pin To Net: NetName=P2I Pin=R1-2
+Added Net: Name=P2I
+Added Member To Class: ClassName=Schematic Member=Component IC1 STM8S003F3P6TR
+Added Member To Class: ClassName=Schematic Member=Component Q2 AO3400A
+Added Member To Class: ClassName=Schematic Member=Component R1 CRCW0402100KFKED
+Added Member To Class: ClassName=Schematic Member=Component R3 CRCW0402100KFKED
+Added Member To Class: ClassName=Schematic Member=Component R4 CRCW0402100KFKED
+Added Member To Class: ClassName=Schematic Member=Component R5 CRCW040250K0FKED
+Added Member To Class: ClassName=Schematic Member=Component R6 CRCW040250K0FKED
+Added Member To Class: ClassName=Schematic Member=Component U1 TLV70033DCKR

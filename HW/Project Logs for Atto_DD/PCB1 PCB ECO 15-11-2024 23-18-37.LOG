@@ -1,0 +1,8 @@
+Added Component: Designator=IC?(SON127P600X500X60-9N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AT25SF321B-MHB-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/at25sf321b-mhb-t/adesto-technologies-corporation-inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/2107a9c539d1764c2819650dbf0db220.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Adesto Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AT25SF321B-MHB-T"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Schematic Member=Component IC? AT25SF321B-MHB-T

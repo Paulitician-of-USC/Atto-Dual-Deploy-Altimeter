@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=BUZ Pin=LS1-1
+Removed Pin From Net: NetName=GND Pin=LS1-2
+Added Component: Designator=Q?(SOT96P240X110-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DDTD113ZC-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ddtd113zc-7-f/diodes-incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com//assets/Datasheets/DDTD_XXXX_C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DDTD113ZC-7-F"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3v3 Pin=LS1-1
+Added Pin To Net: NetName=BUZ Pin=Q?-1
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
+Added Pin To Net: NetName=NetLS1_2 Pin=Q?-3
+Added Net: Name=NetLS1_2
+Added Member To Class: ClassName=Schematic Member=Component Q? DDTD113ZC-7-F
